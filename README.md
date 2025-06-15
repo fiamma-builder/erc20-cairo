@@ -1,11 +1,10 @@
-# BitVM Bridge Contracts Cairo
+# ERC20 Contracts Cairo
 
 A Cairo-based implementation of upgradeable ERC20 token contracts for Starknet, built with OpenZeppelin Contracts for Cairo.
 
 ## Overview
 
-This project provides a secure, upgradeable ERC20 token implementation that combines the power of Cairo smart contracts with battle-tested OpenZeppelin components. The contract is designed for use in bridge scenarios, particularly for BitVM-related applications.
-
+This project provides a secure, upgradeable ERC20 token implementation that combines the power of Cairo smart contracts with battle-tested OpenZeppelin components.
 ## Features
 
 - **ERC20 Standard Compliance**: Full implementation of the ERC20 token standard
@@ -53,7 +52,7 @@ This project provides a secure, upgradeable ERC20 token implementation that comb
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd bitvm_bridge_contracts_cairo
+cd erc20-cairo
 ```
 
 2. Build the project:
